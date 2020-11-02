@@ -1,0 +1,14 @@
+.flex-box{ 
+    display: flex;
+    margin: 0;
+    text-align: center;
+    padding: 30px;
+}
+
+.clock{
+    width: 33%;
+}
+
+.react-clock{
+    margin: 0 auto;
+}
